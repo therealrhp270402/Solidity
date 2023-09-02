@@ -2,7 +2,6 @@
 pragma solidity ^0.8.18;
 
 // Array - dynamic or fixed size
-// Initialization
 // Functions: Insert (push), get, update, delete, Erase (pop), length
 // Creating Array in memory
 // Returning array from function
