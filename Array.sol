@@ -16,7 +16,7 @@ contract Array {
         nums[2] = 789; // [1, 2, 789, 4]
         delete nums[1]; // [1, 0, 789, 4]
         nums.pop(); // [1, 0, 789]
-        uint len = nums.length;
+        uint len = nums.length; 
 
         // Creating Array in memory
         uint[] memory a = new uint[](5);
