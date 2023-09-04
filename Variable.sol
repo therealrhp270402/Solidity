@@ -7,5 +7,5 @@ contract GlobalVariable {
     uint timestamp = block.timestamp;
     uint blockNum = block.number;
     return (sender, timestamp, blockNum);
-  }
+  } 
 }
